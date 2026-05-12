@@ -21,3 +21,15 @@ For gardeners, this study will help the gardeners/farmers to further expand thei
 The Agricultural Sector, this study will help the agriculture sector since the main goal of this study is to develop a system that can classify the soil type. The outcome of this study will provide ease to the sector. The system may also be used by the sector in their future projects and research.
 
 The Future researcher(s), the process and outcome of this research will serve as a reference and/or inspiration for future study. Furthermore, the results of this study will also serve as a basis for future researchers to enhance and further expound the research that will lead to accurate and more beneficial results.
+
+## Contribution and Acknowledgement
+*Pixsoil was made possible by the following stakeholders. They put significant amount of efforts in this project.*
+
+For more information about the researchers, visit The [Researchers page.](https://pixsoil.ml/researchers)
+
+- Eric Echemane
+- Mark Alcel Bautista
+- Jamel Varela
+- Our Research Adviser
+- Our Research Panels
+- The University of Muntinlupa
